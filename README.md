@@ -1,2 +1,8 @@
 # venthub
-venthub is venthub and you don't ask questions
+WELCOME TO VENTHUB!
+venthub is a place for vents.
+VENT #1-Links/Proxies
+VENT #2-Networks
+VENT #3-Eaglercraft
+VENT #4-UGS & other games
+VENT #5-MEMBER LIST
