@@ -1,5 +1,6 @@
 # venthub
 WELCOME TO VENTHUB!
+(maintained by cremebetweens)
 venthub is a place for vents.
 VENT #1-Links/Proxies
 VENT #2-Networks
