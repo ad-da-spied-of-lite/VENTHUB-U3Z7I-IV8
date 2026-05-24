@@ -9,3 +9,5 @@ https://storage.googleapis.com/dogeub/index.html
 https://storage.googleapis.com/instructure/index.svg
 
 https://instructure.storage.googleapis.com/index.html
+
+https://storage.googleapis.com/instructure/index.html
