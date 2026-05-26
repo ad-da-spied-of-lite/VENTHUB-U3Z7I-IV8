@@ -7,3 +7,5 @@ https://ramzankhanxvcsayt.bumon.ar/
 https://ramzankhanold7.bumon.ar/
 
 https://mathschoolramzan.bumon.ar/
+
+(all blocked)
