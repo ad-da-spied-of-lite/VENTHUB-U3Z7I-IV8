@@ -1,3 +1,1 @@
-https://scienceschool.bumon.ar/
-
-https://ramzankhan.bumon.ar/
+https://jian-dangge-laoshi.global.ssl.fastly.net
