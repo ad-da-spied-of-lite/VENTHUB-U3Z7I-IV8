@@ -5,3 +5,5 @@ Velara (games only): https://storage.googleapis.com/dogeub/q/r/111704322b6343571
 Arctic (games only, has flashes): https://dannyge.global.ssl.fastly.net/math.html
 
 Blooket1 (only has games): https://dannyge-lao-shi.global.ssl.fastly.net/
+
+Ghost (games only): https://superstar.global.ssl.fastly.net/
